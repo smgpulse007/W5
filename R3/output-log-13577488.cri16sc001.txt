@@ -1,0 +1,18 @@
+
+
+------------ Job WrapUp ------------
+
+Job ID:            13577488.cri16sc001
+User ID:           t.cri.biowksp13
+Job Name:          rnaseq_tutorial
+Queue Name:        standard
+Working Directory: /home/t.cri.biowksp13/R
+Resource List:     mem=8gb,nodes=1:ppn=16,walltime=01:00:00,neednodes=1:ppn=16
+Resources Used:    cput=00:03:18,vmem=405240kb,walltime=00:03:20,mem=230948kb,energy_used=0
+Exit Code:         0
+Mother Superior:   cri16cn039
+
+Execution Nodes: 
+cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039 cri16cn039
+
+

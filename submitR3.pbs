@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#PBS -N rnaseq_tutorial
+#PBS -l mem=16gb,nodes=1:ppn=8,walltime=1:00:00
+#PBS -e R3/error-log-${PBS_JOBID}.txt
+#PBS -o R2/output-log-${PBS_JOBID}.txt
+
+
+module load gcc
+module load R
+
+Rscript --vanilla ~/R/Rsrc.R
